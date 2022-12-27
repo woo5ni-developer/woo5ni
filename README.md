@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [LGU+](https://www.lguplus.com/)
 
+- 🌱 I’m currently learning **React.js and Typescript**
+
 - 👨‍💻 All of my projects are available at [https://skitter-thyme-c88.notion.site/PORTFOLIO-c987f39b70664d5c9881ad655c35a8b9](https://skitter-thyme-c88.notion.site/PORTFOLIO-c987f39b70664d5c9881ad655c35a8b9)
 
 - 📫 How to reach me **ewoowon.2@gmail.com**
@@ -46,6 +48,12 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
   </a>
 </p>
 
