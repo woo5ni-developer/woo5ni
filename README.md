@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm woowon Lee</h1>
+<h1 align="left">Hi 👋, I'm woowon Lee👩🏻‍💻</h1>
 <h3 align="left">I am a developer with quick adaptability and learning ability.</h3>
 
 <br/>
