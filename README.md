@@ -3,8 +3,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on [nable](http://www.nablecomm.com/)
-
 - 🌱 I’m currently learning **React.js and Typescript and Angular **
 
 - 👨‍💻 All of my projects are available at [https://skitter-thyme-c88.notion.site/PORTFOLIO-c987f39b70664d5c9881ad655c35a8b9](https://skitter-thyme-c88.notion.site/PORTFOLIO-c987f39b70664d5c9881ad655c35a8b9)
